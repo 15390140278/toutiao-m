@@ -120,14 +120,4 @@
 .toutiao-yuedu:before {
   content: "\e60f";
 }
-body {
-  background-color: #f5f7f9;
-}
-.page-nav-bar {
-  background-color: #3296fa;
-}
-.page-nav-bar .van-nav-bar__title,
-.page-nav-bar .van-icon {
-  color: #fff;
-}
-/*# sourceMappingURL=index.css.map */
+/*# sourceMappingURL=icon.css.map */
